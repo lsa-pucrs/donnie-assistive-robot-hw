@@ -1,0 +1,9 @@
+Qty Value               Device              Package       Parts
+1                       FEMALE HEADER       2X13          JP1-RASPBERRY-CONNECTOR
+1                       MALE HEADER         1X03          SERVO
+1                       MALE HEADER         1X04          SONAR
+1                       MALE HEADER         1X08          COMM
+1                       MALE HEADER         1X02          POWER_B
+5   10K                 RESISTOR            PTH 1/4W      R1, R2, R3, R4, R5
+1   1K                  RESISTOR            PTH 1/4W      R6
+1   2N7000              MOSFET              TO-92         Q1

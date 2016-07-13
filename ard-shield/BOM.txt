@@ -1,0 +1,24 @@
+Qty Value            Device             Package           Parts
+
+2                    MALE HEADER        1X04              J1, J2-BELOW
+6                    MALE HEADER        1X08              J2, 5XARDUINO-MEGA-SHIELD-CONNECTORS
+1                    MALE HEADER        1X10              ARDUINO-MEGA-SHIELD-CONNECTORS
+1                    MALE HEADER        2X18              ARDUINO-MEGA-SHIELD-CONNECTORS
+1                    MALE HEADER        2X05              SDIO
+3                    MALE HEADER        1X06              BUMPER, M1, M2
+2                    FEMALE HEADER      1X08              U2-HEADER
+6                    MALE HEADER        1X04              SONAR1, SONAR2, SONAR3, SONAR4, SONAR5, SONAR6
+1                    IC SOCKET          14 PIN            IC2-SOCKET
+1                    IC SOCKET          8 PIN             IC1-SOCKET
+1                    KRE CONNECTOR      1X3 5MM           X2
+3   100 nF           CAPACITOR          POLYESTER 100V    C1, C2, C3
+2   1K               RESISTOR           PTH 1/4W          R1, R2
+1   1M               RESISTOR           PTH 1/4W          R8
+2   33               RESISTOR           PTH 1/4W          R3, R4
+2   330              RESISTOR           PTH 1/4W          R5, R6
+1   470K             RESISTOR           PTH 1/4W          R7
+2   1N4001           DIODO              DO-204AL          D1, D2
+2   2N2222A          NPN TRANSISTOR     O92               T1, T2
+1   74S32N           OR GATE            DIL14             IC2
+1   LM358            OP AMP             DIP08             IC1
+1   TB6612           MOTOR DRIVER       MODULE            U2
