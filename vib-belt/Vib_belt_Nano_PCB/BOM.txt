@@ -1,0 +1,7 @@
+Partlist exported from /home/blue_/Iniciação Científica/git/donnie-assistive-robot-hw/vib-belt/Vib_belt_Nano_PCB/vib_belt.sch at 5/2/19 1:39 PM
+
+Part          Value       Device       Package      Description       MF MPN OC_FARNELL OC_NEWARK
+ARDUINO_NANO1             ARDUINO_NANO ARDUINO_NANO Arduino Nano V3.0                            
+J1            5V          JACK-PLUG0   SPC4077      DC POWER JACK            unknown    unknown  
+JP1           Shield Out  PINHD-1X6/90 1X06/90      PIN HEADER                                   
+JP2           Source Belt PINHD-1X2/90 1X02/90      PIN HEADER                                   
